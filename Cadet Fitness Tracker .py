@@ -64,12 +64,18 @@ def edit_users():
 
 
 
-def staff_menu():
-    action = buttonbox("Main Menu", "Staff Menu", ("Add Log", "View Logs", "Log Off"))
-
-def cadet_menu():
-    action = buttonbox("Main Menu", "Cadet Menu", ("Add Log", "View Logs", "Log Off"))
+##def staff_menu():
+##    action = buttonbox("Main Menu", "Staff Menu", ("Add Log", "View Logs", "Log Off"))
+##
+##def cadet_menu():
+##    action = buttonbox("Main Menu", "Cadet Menu", ("Add Log", "View Logs", "Log Off"))
 
 
 add_user()
 ##start_menu()
+
+
+
+
+
+
